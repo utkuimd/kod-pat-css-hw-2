@@ -12,15 +12,15 @@
     display: flex;
 }
 
-.downBoxL{
+.downBox .Left{
     background-color: #7ee5da; width: 37%;
 }
 
-.downBoxLT{
+.downBox .Left .Text{
     margin-top: 9.75px;
 }
 
-.downBoxM{
+.downBox .Middle{
     background-color: #70ccc2;
     width: 20%;
     font-size: 13px;
@@ -28,11 +28,11 @@
     margin-right: 2px;
 }
 
-.downBoxMT{
+.downBox .Middle .Text{
     margin-top: 6.8px;
 }
 
-.downBoxR{
+.downBox .Right{
     background-color: #62b3aa;
     width: 43%;
     font-size: 13px;
